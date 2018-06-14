@@ -319,6 +319,12 @@
   cursor: pointer;
 }
 
+.cta button:hover {
+  background: transparent;
+  color: #D7D7D7;
+  border: 1px solid #D7D7D7;
+}
+
 /* Footer --------------------------------------------------------------------------------------------------------------- */
 
 #footer {
@@ -804,6 +810,10 @@ a {
 
 a:active, a:focus {
   background: transparent;
+}
+
+a:hover {
+  color: #7A7A7A;
 }
 
 /* IE10 + 11 Bugfix - prevents grey background */
