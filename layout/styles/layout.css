@@ -806,6 +806,7 @@ body {
 
 a {
   color: #CF9C67;
+  transition: 0.3s;
 }
 
 a:active, a:focus {
