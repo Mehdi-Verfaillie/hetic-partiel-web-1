@@ -834,6 +834,19 @@ input:focus, textarea:focus, *:required:focus {
 .overlay {
   color: #FFFFFF;
   background-color: inherit;
+  background-image: url('../../images/news/backgrounds/heroLarge.jpg');
+}
+
+.overlay:nth-child(0) {
+  background-image: url('../../images/news/backgrounds/bgServices.jpg');
+}
+
+.overlay:nth-child(2) {
+  background-image: url('../../images/news/backgrounds/heroLarge.jpg');
+}
+
+.overlay:nth-child(3) {
+  background-image: url('../../images/news/backgrounds/luxe6.jpeg');
 }
 
 .overlay::after {
