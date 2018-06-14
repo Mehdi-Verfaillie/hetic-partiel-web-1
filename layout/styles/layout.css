@@ -105,6 +105,7 @@
 
 .services {
   margin-bottom: 80px;
+  text-align: center;
 }
 
 .services>li>ul li {
@@ -157,6 +158,7 @@
   display: block;
   position: relative;
   max-width: 320px;
+  margin: auto;
 }
 
 .team>figure:last-child {
@@ -206,6 +208,7 @@
 
 .latest article {
   max-width: 320px;
+  margin: auto;
 }
 
 .latest>article:last-child {
